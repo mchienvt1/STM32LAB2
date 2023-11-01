@@ -1,0 +1,4 @@
+led.c:12:6:clear7SEG	8	static
+led.c:16:6:display7SEG	16	static
+led.c:54:6:changeLed	8	static
+led.c:59:6:changeNum	8	static
